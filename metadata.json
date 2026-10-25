@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Master",
+  "description": "A modern and feature-rich Material 3 quiz application featuring offline support, categories, rewards, local leaderboard, profile, statistics, custom quiz generation, settings, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
